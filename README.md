@@ -1,5 +1,5 @@
 
-Tip Time app
+<h1>Tip Time app</h1>
 
 
 Introduction
