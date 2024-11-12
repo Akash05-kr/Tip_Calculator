@@ -1,5 +1,5 @@
 
-##Tip Time app.
+Tip Time app
 
 
 Introduction
